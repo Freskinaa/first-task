@@ -1,0 +1,17 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.page {
+  min-height: calc(100vh - 55px); 
+  margin-top: 50px;
+  background: url("https://img.freepik.com/free-vector/3d-style-black-background-with-paper-layer_206725-669.jpg") no-repeat center center; 
+  background-size: cover; 
+  color: white; 
+  padding-bottom: 20px
+
+}
+
+
+

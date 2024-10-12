@@ -1,0 +1,24 @@
+    .wrapper {
+      display: block;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      padding-top:60px ;
+      
+      span {
+        font-size: 70px;
+        width: 50%; 
+        color: white;
+        font-weight: 500;
+      
+      
+      }
+  
+      p {
+        width: 50%; 
+        font-size: 18px;
+        color: white;
+        line-height: 1.6;
+       
+      }
+    }
